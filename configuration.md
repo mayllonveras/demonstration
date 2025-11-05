@@ -1,0 +1,1 @@
+Configuração inicial disponível em JSON.
